@@ -34,7 +34,7 @@ namespace CircleSquareTest
             double actual = circle.CircleSquare1(r);
 
             //Assert - сравнение результатов (True, False)
-            Assert.Equal(0, actual);
+            Assert.Equal(0, actual);//
         }
     }
 }
