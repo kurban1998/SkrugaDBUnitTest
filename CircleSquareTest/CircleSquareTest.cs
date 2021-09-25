@@ -22,5 +22,19 @@ namespace CircleSquareTest
             //Assert - сравнение результатов (True, False)
             Assert.Equal(expected, actual);
         }
+        [Fact]
+        public void SquareRes1()
+        {
+
+            //Arrange - берем условное число и проверяем результат. 
+            double r = -2;
+
+            //Act - факт. объект тестировния 
+            SkrugaDBTest.CircleSquare circle = new SkrugaDBTest.CircleSquare();
+            double actual = circle.CircleSquare1(r);
+
+            //Assert - сравнение результатов (True, False)
+            Assert.Equal(0, actual);
+        }
     }
 }

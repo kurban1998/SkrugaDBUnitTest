@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\CircleSquareTest\\CircleSquareTest.csproj": {}
+    "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\CircleSquareTest\\CircleSquareTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\CircleSquareTest\\CircleSquareTest.csproj": {
+    "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\CircleSquareTest\\CircleSquareTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\CircleSquareTest\\CircleSquareTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\CircleSquareTest\\CircleSquareTest.csproj",
         "projectName": "CircleSquareTest",
-        "projectPath": "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\CircleSquareTest\\CircleSquareTest.csproj",
-        "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\CircleSquareTest\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\CircleSquareTest\\CircleSquareTest.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\CircleSquareTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\SkrugaDBTest\\SkrugaDBTest.csproj": {
-                "projectPath": "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\SkrugaDBTest\\SkrugaDBTest.csproj"
+              "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\SkrugaDBTest\\SkrugaDBTest.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\SkrugaDBTest\\SkrugaDBTest.csproj"
               }
             }
           }
@@ -87,11 +88,11 @@
         }
       }
     },
-    "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\SkrugaDBTest\\SkrugaDBTest.csproj": {
+    "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\SkrugaDBTest\\SkrugaDBTest.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\SkrugaDBTest\\SkrugaDBTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\SkrugaDBTest\\SkrugaDBTest.csproj",
         "projectName": "SkrugaDBTest",
-        "projectPath": "C:\\Users\\SONY\\source\\repos\\SkrugaDBTest\\SkrugaDBTest\\SkrugaDBTest.csproj"
+        "projectPath": "C:\\Users\\User\\source\\repos\\SkrugaDBUnitTest\\klon\\SkrugaDBTest\\SkrugaDBTest.csproj"
       },
       "frameworks": {
         "net472": {}
